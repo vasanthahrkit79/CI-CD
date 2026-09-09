@@ -72,7 +72,7 @@
           <b>4</b>
         </span>
       </h4>
-      <p><a href="#">Product 10</a> <span class="price">$15</span></p>
+      <p><a href="#">Product 15</a> <span class="price">$15</span></p>
       <p><a href="#">Product 20</a> <span class="price">$5</span></p>
       <p><a href="#">Product 30</a> <span class="price">$8</span></p>
       <p><a href="#">Product 40</a> <span class="price">$2</span></p>
